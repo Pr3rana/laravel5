@@ -10,6 +10,6 @@ Step 4. Run the server using the command "php artisan serve", and then route to 
 
 Step 5. Now the chart will render, as shown below - 
 
-![alt text](https://imgur.com/a/If4kf)
+https://imgur.com/a/If4kf
 
 # end
